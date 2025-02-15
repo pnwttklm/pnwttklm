@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studing B.Sc at Faculty of ICT, Mahidol University, THAILAND
+- 🔭 I’m currently studing B.Sc. in ICT at Mahidol University, THAILAND
 - 🌱 I’m currently learning Deep Learning
 <!-- - 👯 I’m looking to collaborate on ...
 <!-- - 🤔 I’m looking for help with ...
