@@ -19,7 +19,5 @@ https://eateriesguessing.com
 
 ## 📫 Contact
 Portfolio: https://pnwttklm.com  
-LinkedIn: linkedin.com/in/poonyawatt
+LinkedIn: linkedin.com/in/poonyawatt\
 Mailto: poonyawattklumnaim@gmail.com
-
-
