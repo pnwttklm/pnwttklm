@@ -1,16 +1,25 @@
-![POON's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnwttklm&show_icons=true&bg_color=00000000)
-### Hi there 👋
+![POON's GitHub stats](https://streak-stats.demolab.com/?user=pnwttklm)
+# Poonyawatt Klumnaim 👋
 
-<!--
-**pnwttklm/pnwttklm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Full-Stack | AI  
+Bangkok, Thailand 🇹🇭
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently studing B.Sc. in ICT at Mahidol University, THAILAND
-- 🌱 I’m currently learning Deep Learning
-<!-- - 👯 I’m looking to collaborate on ...
-<!-- - 🤔 I’m looking for help with ...
-<!-- - 💬 Ask me about ...-->
-- 📫 How to reach me: poonyawatt.klu@student.mahidol.edu
-<!-- - 😄 Pronouns: ...
-<!-- - ⚡ Fun fact: ...
+Building products, scalable systems, and AI applications.
+
+## ⚡ Tech
+TypeScript · React · Next.js · NestJS · Node.js  
+PostgreSQL · Prisma · Docker · AWS  
+Python · NLP · LLMs
+
+## 🚀 Featured
+
+### 🍜 Eateries Guessing
+Food discovery game platform  
+https://eateriesguessing.com
+
+## 📫 Contact
+Portfolio: https://pnwttklm.com  
+LinkedIn: linkedin.com/in/poonyawatt
+Mailto: poonyawattklumnaim@gmail.com
+
+
