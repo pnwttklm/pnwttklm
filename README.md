@@ -1,4 +1,5 @@
 ![POON's GitHub stats](https://streak-stats.demolab.com/?user=pnwttklm)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pnwttklm?theme=light&font=Inter)
 # Poonyawatt Klumnaim 👋
 
 Software Engineer | Full-Stack | AI  
