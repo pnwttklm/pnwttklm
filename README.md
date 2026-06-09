@@ -13,6 +13,9 @@ PostgreSQL · Prisma · Docker · AWS
 Python · NLP · LLMs
 
 ## 🚀 Featured
+### 🦠 Early Outbreak Detection Dashboard
+Outbreak monitor dashboard platform  
+https://eod11.pnwttklm.com
 
 ### 🍜 Eateries Guessing
 Food discovery game platform  
